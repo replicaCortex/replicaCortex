@@ -1,4 +1,4 @@
-<p alighn="center">
+<p align="center">
 I really ❤️ (n)vim, LaTeX, NixOS
 </p>
 
