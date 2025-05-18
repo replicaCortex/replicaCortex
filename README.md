@@ -1,5 +1,6 @@
 I really <i class="nf nf-fa-heart"></i>:
-1. <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="30" style="vertical-align: middle;">
+
+1. <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="20" style="vertical-align: middle;">
 2.
 3. 
 
