@@ -1,5 +1,5 @@
 <p align="center">
-I really ❤️ (n)vim, $\LaTeX$, NixOS, C/C++
+I really ❤️ (n)vim, $\LaTeX$, NixOS, Rust
 </p>
 
 ---
